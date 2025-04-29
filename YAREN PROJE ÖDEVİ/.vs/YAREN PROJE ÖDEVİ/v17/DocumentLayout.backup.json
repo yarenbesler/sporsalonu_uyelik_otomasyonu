@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1486E-EDB8-4D94-AE8C-83D8F8AA6888}|YAREN PROJE \u00D6DEV\u0130.csproj|c:\\users\\msi\\desktop\\c# form proje\\g\u00F6rsel proglamlama deneme\\yaren proje \u00F6dev\u0130\\uyeislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCD1486E-EDB8-4D94-AE8C-83D8F8AA6888}|YAREN PROJE \u00D6DEV\u0130.csproj|solutionrelative:uyeislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1486E-EDB8-4D94-AE8C-83D8F8AA6888}|YAREN PROJE \u00D6DEV\u0130.csproj|C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\uyeislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD1486E-EDB8-4D94-AE8C-83D8F8AA6888}|YAREN PROJE \u00D6DEV\u0130.csproj|solutionrelative:uyeislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1486E-EDB8-4D94-AE8C-83D8F8AA6888}|YAREN PROJE \u00D6DEV\u0130.csproj|C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD1486E-EDB8-4D94-AE8C-83D8F8AA6888}|YAREN PROJE \u00D6DEV\u0130.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1486E-EDB8-4D94-AE8C-83D8F8AA6888}|YAREN PROJE \u00D6DEV\u0130.csproj|C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD1486E-EDB8-4D94-AE8C-83D8F8AA6888}|YAREN PROJE \u00D6DEV\u0130.csproj|solutionrelative:kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1486E-EDB8-4D94-AE8C-83D8F8AA6888}|YAREN PROJE \u00D6DEV\u0130.csproj|C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCD1486E-EDB8-4D94-AE8C-83D8F8AA6888}|YAREN PROJE \u00D6DEV\u0130.csproj|solutionrelative:kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1486E-EDB8-4D94-AE8C-83D8F8AA6888}|YAREN PROJE \u00D6DEV\u0130.csproj|C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCD1486E-EDB8-4D94-AE8C-83D8F8AA6888}|YAREN PROJE \u00D6DEV\u0130.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kayit.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\kayit.cs",
+              "RelativeDocumentMoniker": "kayit.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\kayit.cs",
+              "RelativeToolTip": "kayit.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:04:05.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC8AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:22:13.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Uyeislemleri.cs",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\Uyeislemleri.cs",
+              "RelativeDocumentMoniker": "Uyeislemleri.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\Uyeislemleri.cs*",
+              "RelativeToolTip": "Uyeislemleri.cs*",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:33:18.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Uyeislemleri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\Uyeislemleri.cs",
+              "RelativeDocumentMoniker": "Uyeislemleri.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\Uyeislemleri.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "Uyeislemleri.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:31:55.52Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\kayit.cs",
+              "RelativeDocumentMoniker": "kayit.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\kayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:47:09.859Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\msi\\Desktop\\C# FORM PROJE\\G\u00D6RSEL PROGLAMLAMA DENEME\\YAREN PROJE \u00D6DEV\u0130\\Login.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Login.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:13:26.09Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+C:\Users\msi\Desktop\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\bin\Debug\YAREN PROJE ÖDEVİ.exe.config
+C:\Users\msi\Desktop\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\bin\Debug\YAREN PROJE ÖDEVİ.exe
+C:\Users\msi\Desktop\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\bin\Debug\YAREN PROJE ÖDEVİ.pdb
+C:\Users\msi\Desktop\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN PROJE ÖDEVİ.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN_PROJE_ÖDEVİ.kayit.resources
+C:\Users\msi\Desktop\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN_PROJE_ÖDEVİ.Login.resources
+C:\Users\msi\Desktop\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN_PROJE_ÖDEVİ.Properties.Resources.resources
+C:\Users\msi\Desktop\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN PROJE ÖDEVİ.csproj.GenerateResource.cache
+C:\Users\msi\Desktop\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN PROJE ÖDEVİ.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN PROJE ÖDEVİ.exe
+C:\Users\msi\Desktop\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN PROJE ÖDEVİ.pdb
+C:\Users\msi\Desktop\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN_PROJE_ÖDEVİ.Uyeislemleri.resources
+C:\Users\msi\Desktop\C# FORM PROJE\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\bin\Debug\YAREN PROJE ÖDEVİ.exe.config
+C:\Users\msi\Desktop\C# FORM PROJE\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\bin\Debug\YAREN PROJE ÖDEVİ.exe
+C:\Users\msi\Desktop\C# FORM PROJE\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\bin\Debug\YAREN PROJE ÖDEVİ.pdb
+C:\Users\msi\Desktop\C# FORM PROJE\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN PROJE ÖDEVİ.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\C# FORM PROJE\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN_PROJE_ÖDEVİ.kayit.resources
+C:\Users\msi\Desktop\C# FORM PROJE\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN_PROJE_ÖDEVİ.Login.resources
+C:\Users\msi\Desktop\C# FORM PROJE\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN_PROJE_ÖDEVİ.Properties.Resources.resources
+C:\Users\msi\Desktop\C# FORM PROJE\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN_PROJE_ÖDEVİ.Uyeislemleri.resources
+C:\Users\msi\Desktop\C# FORM PROJE\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN PROJE ÖDEVİ.csproj.GenerateResource.cache
+C:\Users\msi\Desktop\C# FORM PROJE\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN PROJE ÖDEVİ.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\C# FORM PROJE\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN PROJE ÖDEVİ.exe
+C:\Users\msi\Desktop\C# FORM PROJE\GÖRSEL PROGLAMLAMA DENEME\YAREN PROJE ÖDEVİ\obj\Debug\YAREN PROJE ÖDEVİ.pdb
